@@ -1,7 +1,8 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<img width="1007" alt="Screenshot 2023-11-21 at 12 09 39" src="https://github.com/jhjanicki/d3_vue_area/assets/6565011/54dfda88-76e7-423d-9a5f-8a0241e52781">
 
-## Recommended IDE Setup
+# Description
+Area chart using D3 + Vue, showing Russian exports to EU27 before and after the war
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# Data source
+Brugel
